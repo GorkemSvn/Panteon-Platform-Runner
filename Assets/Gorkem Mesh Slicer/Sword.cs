@@ -85,7 +85,7 @@ public class Sword : MonoBehaviour
     }
     IEnumerator destroy(GameObject a)
     {
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(5f);
         Destroy(a);
     }
 }

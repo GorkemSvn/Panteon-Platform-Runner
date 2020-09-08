@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 3}
-  m_MinSize: {x: 875, y: 521}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -141,10 +141,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 645
-  m_MinSize: {x: 609, y: 471}
-  m_MaxSize: {x: 18004, y: 14021}
+  m_MinSize: {x: 609, y: 492}
+  m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 78
+  controlID: 105
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -195,10 +195,10 @@ MonoBehaviour:
     y: 0
     width: 468
     height: 645
-  m_MinSize: {x: 231, y: 471}
-  m_MaxSize: {x: 10001, y: 14021}
+  m_MinSize: {x: 231, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 79
+  controlID: 106
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -315,7 +315,7 @@ MonoBehaviour:
     m_ControlHash: 1412526313
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: -1
+  m_LastInspectedObjectInstanceID: 16130
   m_LastVerticalScrollValue: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -497,9 +497,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.07634449, y: -0.0957613, z: 84.911606}
+    m_Target: {x: 5.428295, y: 4.768368, z: 61.1781}
     speed: 2
-    m_Value: {x: 0.07634449, y: -0.0957613, z: 84.911606}
+    m_Value: {x: 5.428295, y: 4.768368, z: 61.1781}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -545,13 +545,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.041878823, y: 0.9581264, z: -0.20061238, w: 0.20000976}
+    m_Target: {x: 0.23442206, y: 0.53338265, z: -0.15678623, w: 0.7974818}
     speed: 2
-    m_Value: {x: 0.04187863, y: 0.95812196, z: -0.20061144, w: 0.20000884}
+    m_Value: {x: 0.23538022, y: 0.5343393, z: -0.15793861, w: 0.7963248}
   m_Size:
-    m_Target: 11.70932
+    m_Target: 16.800947
     speed: 2
-    m_Value: 11.70932
+    m_Value: 16.800947
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -697,9 +697,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 28610000
-      m_LastClickedID: 24872
-      m_ExpandedIDs: c4eeffff3cefffff66f0ffff6afbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: eac4ffff62c5ffff8cc6ffff36d8ffff18dafffff2dbffff12dcffff26f7ffff6afbffff2a3f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -760,7 +760,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 180
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -832,14 +832,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Gorkem Mesh Slicer
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Unity2019Projects\Panteon Platform Runner
+  m_LastProjectPath: C:\Unity2019Projects\Panteon Platform Runner - Git
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be8b0000
-    m_LastClickedID: 35774
-    m_ExpandedIDs: 000000001e3d0000724300007443000076430000784300007a4300007c4300007e43000080430000bc8b000000ca9a3b
+    m_SelectedIDs: d0430000
+    m_LastClickedID: 17360
+    m_ExpandedIDs: 000000001e3d0000724300007443000076430000784300007a4300007c4300007e430000804300008243000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -867,7 +867,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001e3d0000724300007443000076430000784300007a4300007c4300007e43000080430000
+    m_ExpandedIDs: 000000001e3d0000724300007443000076430000784300007a4300007c4300007e4300008043000082430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -894,7 +894,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000068c0000446c0000184200002a3c000074410000b6460000bc52000068480000e06c00007e710000c0540000027d0200067d02002c7e0200305901003e470000620c0100f0fc0000a80f0100ac3601002e060100221601006a3401007cfc00003425010078fc00008c410000a44500001848000010450000ae970000ea4700000000000084011000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
