@@ -11,10 +11,10 @@ public class UiManager : MonoBehaviour
     public MessageText messager;
     public static UiManager manager;
 
+
     public void Awake()
     {
         manager = this;
-
     }
 
     public void TapToPlay()
@@ -22,6 +22,10 @@ public class UiManager : MonoBehaviour
         messager.ShowMessage("Hurry!", 3f);
         TapPlayButton.SetActive(false);
         PlayerChar.SetMovenet(true);
+
+        AICharacter[] ais = GameObject.FindObjectsOfType<AICharacter>();
+        foreach (AICharacter ai in ais)
+            ai.SetMovenet(true);
     }
     public void LevelFail()
     {

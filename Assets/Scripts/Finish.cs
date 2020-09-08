@@ -31,6 +31,7 @@ public class Finish : MonoBehaviour
         wallTransition.MakeTransition();
         yield return new WaitForSeconds(1f);
         painter.enabled = true;
+        yield return new WaitForSeconds(4f);
         doneButton.SetActive(true);
     }
 }

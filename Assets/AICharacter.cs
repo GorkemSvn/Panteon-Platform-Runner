@@ -20,7 +20,7 @@ public class AICharacter : MonoBehaviour
         firstStar = targetStar;
         if (StarAi)
             speed = targetStar.speed;
-        SetMovenet(true);
+
         StartCoroutine(Thinking());
     }
 
