@@ -97,7 +97,7 @@ Material:
     m_Colors:
     - Color_85F0455D: {r: 0, g: 1, b: 1, a: 0.7607843}
     - Vector2_1029037F: {r: 0, g: 1, b: 0, a: 0}
-    - Vector2_8236A34F: {r: 200, g: 400, b: 0, a: 0}
+    - Vector2_8236A34F: {r: 100, g: 100, b: 0, a: 0}
     - Vector3_6FC5ECCD: {r: 0, g: 20, b: 0, a: 0}
     - _BaseColor: {r: 0.71960664, g: 0.8107714, b: 0.9716981, a: 0.9647059}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
