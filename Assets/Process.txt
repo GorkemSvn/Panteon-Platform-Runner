@@ -1,0 +1,7 @@
+1- Set Enviroment
+/ computer platform android etc
+/ lightning-shadows-fog
+/ road-ground
+/ 
+2- Set Camera
+3- Set Mechanics and player character
