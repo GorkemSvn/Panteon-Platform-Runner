@@ -1,0 +1,1 @@
+this folder contains playable apk file for android phones
